@@ -1,1 +1,1 @@
-# requirements_analysis
+В данном репозитории, в плане учебного курса по Функциональному тестированию, проведен анализ требований к web-сайту https://demo.guru99.com/telecom/index.html
